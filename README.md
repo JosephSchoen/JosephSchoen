@@ -109,7 +109,6 @@ Don't forget to give the project a star! Thanks again!
 
 Joseph Schoen - joseph.william.schoen@gmail.com
 
-Project Link: [https://github.com/JosephSchoen/CISC_130](https://github.com/JosephSchoen/CISC_130)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
