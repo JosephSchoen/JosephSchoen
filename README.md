@@ -26,7 +26,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#Repositories">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
 
@@ -63,11 +63,13 @@ Now, that leaves me with much yet to learn, but I am beyond excited to continue 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Repositories
 
-T
-
-
+[https://github.com/JosephSchoen/Computer-Graphics---420](https://github.com/JosephSchoen/Computer-Graphics---420)
+</br>
+[https://josephschoen.github.io/](https://josephschoen.github.io/)
+</br>
+[https://github.com/JosephSchoen/CISC_130](https://github.com/JosephSchoen/CISC_130)
 
 
 
