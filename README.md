@@ -26,7 +26,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#Repositories">Usage</a></li>
+    <li><a href="#Repositories">Repositories</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
 
@@ -62,7 +62,7 @@ Now, that leaves me with much yet to learn, but I am beyond excited to continue 
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- Repositories EXAMPLES -->
 ## Repositories
 
 [https://github.com/JosephSchoen/Computer-Graphics---420](https://github.com/JosephSchoen/Computer-Graphics---420)
