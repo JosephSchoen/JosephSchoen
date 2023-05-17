@@ -14,20 +14,13 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-me">About Me</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
+    <li><a href="#Languages">Languages</a></li>
     <li><a href="#Repositories">Repositories</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
 
   </ol>
@@ -70,18 +63,6 @@ Now, that leaves me with much yet to learn, but I am beyond excited to continue 
 [https://josephschoen.github.io/](https://josephschoen.github.io/)
 </br>
 [https://github.com/JosephSchoen/CISC_130](https://github.com/JosephSchoen/CISC_130)
-
-
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
 
 
 
