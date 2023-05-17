@@ -57,7 +57,7 @@ Now, that leaves me with much yet to learn, but I am beyond excited to continue 
 
 [CISC 420 - Web Development](https://github.com/JosephSchoen/Computer-Graphics---420)
 </br>
-[Personal Website](https://josephschoen.github.io/)
+[Personal Website](https://github.com/JosephSchoen/JosephSchoen.github.io)
 </br>
 [CISC 130 - Intro to Computer Science](https://github.com/JosephSchoen/CISC_130)
 
