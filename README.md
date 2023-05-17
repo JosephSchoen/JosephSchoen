@@ -55,11 +55,11 @@ Now, that leaves me with much yet to learn, but I am beyond excited to continue 
 <!-- Repositories EXAMPLES -->
 ## Repositories
 
-[https://github.com/JosephSchoen/Computer-Graphics---420](https://github.com/JosephSchoen/Computer-Graphics---420)
+[CISC 420 - Web Development](https://github.com/JosephSchoen/Computer-Graphics---420)
 </br>
-[https://josephschoen.github.io/](https://josephschoen.github.io/)
+[Personal Website](https://josephschoen.github.io/)
 </br>
-[https://github.com/JosephSchoen/CISC_130](https://github.com/JosephSchoen/CISC_130)
+[CISC 130 - Intro to Computer Science](https://github.com/JosephSchoen/CISC_130)
 
 
 
