@@ -15,9 +15,6 @@
   <ol>
     <li>
       <a href="#about-me">About Me</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li><a href="#Languages">Languages</a></li>
     <li><a href="#Repositories">Repositories</a></li>
